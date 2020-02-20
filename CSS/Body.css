@@ -1,0 +1,9 @@
+#Body-outer {
+    position: absolute;
+    background-color: white;
+    color: black;
+    width: 112%;
+    height: 100%;
+    top: 13%;
+    left: 0%;
+}

@@ -1,0 +1,31 @@
+#Header-outer {
+    position: absolute;
+    background-color: blue;
+    color: white;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 13%;
+    padding-left: 12%;
+}
+
+#Icon {
+    position: relative;
+    left: 2%;
+}
+
+#Title {
+    position: absolute;
+    color: rgb(199, 187, 17);
+    top: 1.5%;
+    left: 14%;
+    z-index: 100;
+}
+
+#Title2 {
+    position: absolute;
+    color: rgb(199, 187, 17);
+    top: 3%;
+    right: 2%;
+    z-index: 100;
+}
