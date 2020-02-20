@@ -11,14 +11,14 @@
 
 #Icon {
     position: relative;
-    left: 2%;
+    left: 1.5%;
 }
 
 #Title {
     position: absolute;
     color: rgb(199, 187, 17);
     top: 1.5%;
-    left: 14%;
+    left: 8%;
     z-index: 100;
 }
 
