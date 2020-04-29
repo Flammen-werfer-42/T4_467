@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="../CSS/CatalogB.css">
     <div id="Body-outer">
     <div id="infoBanner"></div>
+    <!--THESE 2 BOXES ARE EMPTY FOR NOW, MEANT ONLY FOR AESTETIC EFFECT RIGHT NOW -->
     <div id="infoBox1">ACCOUNT INFO</div>
     <div id="infoBox2">LINKS TO OTHER PAGES</div>
 
